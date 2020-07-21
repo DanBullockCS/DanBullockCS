@@ -23,12 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to video edit in my spare time ⏱
 
-### Interests
-- UX Design
-- Web Development
-- Game Development
-- Human Computer Interaction
-
 ### Skills
 <img src='https://img.shields.io/badge/-Unity-222C37'> <img src='https://img.shields.io/badge/-HTML-blue'> <img src='https://img.shields.io/badge/-CSS-brightgreen'> <img src='https://img.shields.io/badge/-JavaScript-orange'> <img src='https://img.shields.io/badge/-React-61DBFB'> <img src='https://img.shields.io/badge/-Vue-41b883'> <img src='https://img.shields.io/badge/-Python-success'> <img src='https://img.shields.io/badge/-Java-F8981D'> <img src='https://img.shields.io/badge/-CSharp-270065'> <img src='https://img.shields.io/badge/-C++-00599C'>
 
