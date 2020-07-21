@@ -1,4 +1,4 @@
-### Hey there 👋, my name is Dan
+### Hey there 👋, my name is Dan, but you knew that already
 
 <!--
 **DanBullockCS/DanBullockCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
