@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋, my name is Dan
 
 <!--
 **DanBullockCS/DanBullockCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a Color Blindness Helper App
+- 🌱 I’m currently learning ReactJS/VueJS
+- 👯 I’m looking to collaborate on amateur game dev projects
+- 💬 Ask me about the video games I play 
+- 📫 How to reach me: email me at BusinessDaniel@live.com, that's a good one
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I like to video edit in my spare time ⏱
+
+### Interests
+- UX Design
+- Web Development
+- Game Development
+- Human Computer Interaction
+
+### Skills
+<img src='https://img.shields.io/badge/-Unity-222C37'> <img src='https://img.shields.io/badge/-HTML-blue'> <img src='https://img.shields.io/badge/-CSS-brightgreen'> <img src='https://img.shields.io/badge/-JavaScript-orange'> <img src='https://img.shields.io/badge/-React-61DBFB'> <img src='https://img.shields.io/badge/-Vue-41b883'> <img src='https://img.shields.io/badge/-Python-success'> <img src='https://img.shields.io/badge/-Java-F8981D'> <img src='https://img.shields.io/badge/-CSharp-270065'> <img src='https://img.shields.io/badge/-C++-00599C'>
+
+### Connect with me
+<a href="https://www.linkedin.com/in/danielbullockcs/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+
