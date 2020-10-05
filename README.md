@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on https://www.ineventors.com/, a virtual/hybrid event platform
-- 🌱 I’m currently learning ReactJS/VueJS
-- 🙏 I’m looking to collaborate on amateur game dev projects
-- 💬 Ask me about the video games I play 
+- 💬 Ask me Anything
 - 📫 How to reach me: Message me on LinkedIn, link at the bottom of this readme
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to video edit in my spare time ⏱
