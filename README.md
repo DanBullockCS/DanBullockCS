@@ -4,7 +4,7 @@
 **DanBullockCS/DanBullockCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on <a href="https://www.ineventors.com/" target="_blank">https://www.ineventors.com/</a>, a virtual/hybrid event platform
+- 🔭 I’m currently working at <a href="https://github.com/BadlionClient" target="_blank">@BadlionClient</a>, the largest 3rd party Minecraft client. Built in mods, FPS improvements, and client anticheat.
 - 💬 Ask me Anything
 - 📫 How to reach me: DanBullockCS@gmail.com
 - 😄 Pronouns: He/Him
