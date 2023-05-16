@@ -4,7 +4,7 @@
 **DanBullockCS/DanBullockCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working at <a href="https://github.com/BadlionClient" target="_blank">@BadlionClient</a>, the largest 3rd party Minecraft client. Built in mods, FPS improvements, and client anticheat.
+- 🔭 I’m currently working at <a href="https://github.com/BadlionClient" target="_blank">@BadlionClient</a>, The only Minecraft launcher you will ever need to download again packed with over 100 mods, FPS improvements, and tons of extras for Minecraft!
 - 💬 Ask me Anything
 - 📫 How to reach me: DanBullockCS@gmail.com
 - 😄 Pronouns: He/Him
