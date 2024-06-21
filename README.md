@@ -15,5 +15,3 @@
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/danielbullockcs/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://twitter.com/intent/follow?screen_name=DanBullockCS" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/DanBullockCS?style=social"></a>
-
-![Dan's Github Stats](https://github-readme-stats.vercel.app/api?username=danbullockcs&show_icons=true&theme=tokyonight)
